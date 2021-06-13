@@ -108,8 +108,32 @@
 ![drawn](https://blogfiles.pstatic.net/MjAyMTA2MTNfOTgg/MDAxNjIzNTU3NjUzNDk0.EfeP4Uzs0tvfUO78aBZfFkTb0B3W5MMUvhSAJsLvDygg.1x0R_T5pywF092AdWihcK00-Lf29Ge6uKHBAE2osWr8g.PNG.dltoqha684/%EB%AC%BC%EC%97%90%EB%B9%A0%EC%A1%8C%EC%9D%84%EB%95%8C.png)   
 
 ### 4)소스 코드  
-GitHub 업로드 파일로 대체  
+(1) 씬 관련  
+* **BacktoPlayScene.cs :** 마트, 약국에서 플레이 씬으로 돌아가는 스크립트  
+* GameClear.cs : 베이스캠프에 도착해서 게임 클리어 씬으로 전환되는 스크립트  
+* Restart.cs : 게임 오버 씬에서 다시 게임 스타트 씬으로 전환되는 스크립트  
+* DayAndNight.cs : 시간의 흐름에 따라 낮~밤 전환되는 스크립트  
+* StartToGame.cs : 스타트 씬에서 플레이 씬으로 전환되는 스크립트  
+* Dont.cs : 스탯 UI가 씬이 전환되어도 파괴되지 않고 유지되도록 하는 스크립트  
+* GameManager.cs : 마우스 커서 숨기기  
 
+(2) 플레이어 & 총 관련  
+* PlayerController2.cs : 카메라 1인칭 시점 회전, 방향키로 이동, 점프, 달리기, 웅크리기, HP 깎기  
+* GunController.cs : 총알 발사 이펙트, 정조준, 재장전  
+* Gun.cs : 총 사정거리, 연사속도, 정확도, 재장전 속도, 반동 세기, 총알 개수 등 정보 저장 스크립트  
+* Shoot.cs : 총알 오브젝트 생성, 발사  
+
+(3) 좀비 관련  
+* ZombieNove.cs : 총알에 두 번 맞으면 죽음, 물에 닿으면 죽음, NavMeshAgent를 이용한 좀비 AI    
+* ZombieManager.cs : 좀비 랜덤 생성 스크립트  
+
+(4)UI 관련  
+* StatusController.cs : HP, Hungry, Thirsty, SP, DP(방어력_사용 안함) 컨트롤  
+* ItemCCC.cs : 음식 아이템 먹으면 Hungry 게이지 증가하는 스크립트  
+* PotionUI.cs : 약 아이템 먹으면 HP 게이지 증가하는 스크립트  
+* WaterUI.cs : 물 아이템 먹으면 Thirsty 게이지 증가하는 스크립트  
+* HUD2.cs : 총알 개수 UI 컨트롤  
+ 
 ### 5)게임 완성  
 (1)게임 클리어    
 ![day](https://blogfiles.pstatic.net/MjAyMTA2MTNfMjM3/MDAxNjIzNTU4MzQ1NjE3.qDTUZPVm3Qm5sv57DFyNf7e2WUY0QQV_t-Ec8xtrvqkg.IxDYlXrRPl7crGw_ewN3pUOQSaXna98c9gQBpSP3Gowg.PNG.dltoqha684/%EB%82%AE.png) ![sunset](https://blogfiles.pstatic.net/MjAyMTA2MTNfMTE1/MDAxNjIzNTU4MzEwMjA0.dtq4-bpaPiFhSzstghGyNBh_ORsYZ58DdIBMyCz3DDkg.F_3CSJv0S4NA5m2lg6Y0iThC_htdDzggRpyp-xM7Caog.PNG.dltoqha684/%EB%85%B8%EC%9D%84.png) ![night](https://postfiles.pstatic.net/MjAyMTA2MTNfMjI3/MDAxNjIzNTU4MzEwMjAy.vM21Qq8H1dMjo-NX1LWMvNqVIG5c_23Asi15G3J7inQg.R6-ub2aLZGk1MjW2ig7Ot5nnc6ocoaWGojz8CSlPEGYg.PNG.dltoqha684/%EB%B0%A4.png?type=w966)  
