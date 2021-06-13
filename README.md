@@ -39,7 +39,7 @@
 * 도시 안에 물을 구할 수 있는 호수가 있음
 * 좀비로부터 안전한 베이스캠프가 인근에 위치함  
 
-#### 4)플레이어 특징  
+### 4)플레이어 특징  
 ![player](https://blogfiles.pstatic.net/MjAyMTA2MTNfNTAg/MDAxNjIzNTU1OTM1MzM0.58uu2kWA6qc3vLHmYWqHaCKav13aTZ02SMtELs7R-gwg.Prz25Omh17XvzCcl3sQwU_FMfskizFibcM-7bDgbiesg.PNG.dltoqha684/player.png)  
 * 좀비에게 공격을 당할 시 HP가 줄어들고 약을 먹으면 회복이 가능함
 * 다만, 좀비에 세 번 이상 공격당할 시 바로 죽음 
@@ -52,14 +52,13 @@
 1) 캐릭터 – 플레이어, 좀비 2) 도시 3) 물 4) 마트
 5) 식량 6) 약국 7) 약 포지션 8) HP, Hungry, Thirsty, SP 이미지 10) 총
 
-
 <SCENE 제작>
-1) GAME START SCENE  
-![start](https://blogfiles.pstatic.net/MjAyMTA2MTNfOTUg/MDAxNjIzNTU1OTM1MzAy.73OIS_NlW4u8BTi1thXzzhJEdp4a-6SaPEm3W6o5hGog.-O5EoAB234ab2pLdPonSs9jWqUV0g9e8QiQp2Jnzxygg.PNG.dltoqha684/start.png)  
-2) GAME OVER SCENE
-![over](https://blogfiles.pstatic.net/MjAyMTA2MTNfMjM1/MDAxNjIzNTU1OTM1Mjk3.g_gwHFmqw-9ygubQGIjdtgGb_diyJKtzmdIdFXdTO88g.Dm2-0spdlxhghoSWTSP9dkbeYb7nJ6e7A_LDcOPO5ZEg.PNG.dltoqha684/over.png)  
-3) GAME CLEAR SCENE  
-![clear](https://blogfiles.pstatic.net/MjAyMTA2MTNfMjAg/MDAxNjIzNTU1OTM1Mjk3.NpAKQyQGRbbO2kiq5cn-xUkJ81txO-xFTCPHiu1rB_wg.fjHBUEWXrVeS0iBShuG_3BRFFOoUVibkuqTTzOTDtF4g.PNG.dltoqha684/clear.png)  
+1) GAME START SCENE    
+![start](https://blogfiles.pstatic.net/MjAyMTA2MTNfOTUg/MDAxNjIzNTU1OTM1MzAy.73OIS_NlW4u8BTi1thXzzhJEdp4a-6SaPEm3W6o5hGog.-O5EoAB234ab2pLdPonSs9jWqUV0g9e8QiQp2Jnzxygg.PNG.dltoqha684/start.png)    
+2) GAME OVER SCENE  
+![over](https://blogfiles.pstatic.net/MjAyMTA2MTNfMjM1/MDAxNjIzNTU1OTM1Mjk3.g_gwHFmqw-9ygubQGIjdtgGb_diyJKtzmdIdFXdTO88g.Dm2-0spdlxhghoSWTSP9dkbeYb7nJ6e7A_LDcOPO5ZEg.PNG.dltoqha684/over.png)    
+3) GAME CLEAR SCENE    
+![clear](https://blogfiles.pstatic.net/MjAyMTA2MTNfMjAg/MDAxNjIzNTU1OTM1Mjk3.NpAKQyQGRbbO2kiq5cn-xUkJ81txO-xFTCPHiu1rB_wg.fjHBUEWXrVeS0iBShuG_3BRFFOoUVibkuqTTzOTDtF4g.PNG.dltoqha684/clear.png)    
 
 <>
 
