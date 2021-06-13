@@ -112,7 +112,61 @@ GitHub 업로드 파일로 대체
 
 ### 5)게임 완성  
 (1)게임 클리어    
-![day](https://blogfiles.pstatic.net/MjAyMTA2MTNfMjM3/MDAxNjIzNTU4MzQ1NjE3.qDTUZPVm3Qm5sv57DFyNf7e2WUY0QQV_t-Ec8xtrvqkg.IxDYlXrRPl7crGw_ewN3pUOQSaXna98c9gQBpSP3Gowg.PNG.dltoqha684/%EB%82%AE.png) ![sunset](https://blogfiles.pstatic.net/MjAyMTA2MTNfMTE1/MDAxNjIzNTU4MzEwMjA0.dtq4-bpaPiFhSzstghGyNBh_ORsYZ58DdIBMyCz3DDkg.F_3CSJv0S4NA5m2lg6Y0iThC_htdDzggRpyp-xM7Caog.PNG.dltoqha684/%EB%85%B8%EC%9D%84.png) ![night](https://postfiles.pstatic.net/MjAyMTA2MTNfMjI3/MDAxNjIzNTU4MzEwMjAy.vM21Qq8H1dMjo-NX1LWMvNqVIG5c_23Asi15G3J7inQg.R6-ub2aLZGk1MjW2ig7Ot5nnc6ocoaWGojz8CSlPEGYg.PNG.dltoqha684/%EB%B0%A4.png?type=w966)
+![day](https://blogfiles.pstatic.net/MjAyMTA2MTNfMjM3/MDAxNjIzNTU4MzQ1NjE3.qDTUZPVm3Qm5sv57DFyNf7e2WUY0QQV_t-Ec8xtrvqkg.IxDYlXrRPl7crGw_ewN3pUOQSaXna98c9gQBpSP3Gowg.PNG.dltoqha684/%EB%82%AE.png) ![sunset](https://blogfiles.pstatic.net/MjAyMTA2MTNfMTE1/MDAxNjIzNTU4MzEwMjA0.dtq4-bpaPiFhSzstghGyNBh_ORsYZ58DdIBMyCz3DDkg.F_3CSJv0S4NA5m2lg6Y0iThC_htdDzggRpyp-xM7Caog.PNG.dltoqha684/%EB%85%B8%EC%9D%84.png) ![night](https://postfiles.pstatic.net/MjAyMTA2MTNfMjI3/MDAxNjIzNTU4MzEwMjAy.vM21Qq8H1dMjo-NX1LWMvNqVIG5c_23Asi15G3J7inQg.R6-ub2aLZGk1MjW2ig7Ot5nnc6ocoaWGojz8CSlPEGYg.PNG.dltoqha684/%EB%B0%A4.png?type=w966)  
+* 낮~밤 변화  
+
+![play](https://blogfiles.pstatic.net/MjAyMTA2MTNfNTIg/MDAxNjIzNTU4MzcxMDk5.UES8U5Y7ZMkwjmTNFeJ6viYrzHjNeIwp_2cC01BOjxAg.A8vYbap62hQOuWDQy9b0gmhKjbQnTQFLa2p1DxpLcWEg.PNG.dltoqha684/%EC%99%84%EC%84%B12.png)  
+* 처음 Hugry, Thirsty 게이지는 0  
+* 마우스 움직임으로 캐릭터 시점 이동(상하 좌우)  
+* 스페이스바를 누르면 점프  
+* 컨트롤 키를 누르면 웅크리기 모드(다시 누르면 원상태로 돌아옴)  
+* 쉬프트 키를 누르면 달리기 모드  
+
+![attack](https://blogfiles.pstatic.net/MjAyMTA2MTNfMTk1/MDAxNjIzNTU4MzkzODkw.lH-CScGeSkbV0ADhrjUgbZwmwjRaNRt9m59MBPG69qAg.9BmpwzklSvpRpfNWwT-1Tr_IcuLfiNQwOSDVnq8JfQsg.PNG.dltoqha684/%EC%99%84%EC%84%B13.png)  
+* 좀비에게 공격당할 시 HP 게이지 깎임  
+
+![gun](https://blogfiles.pstatic.net/MjAyMTA2MTNfMTg4/MDAxNjIzNTU4NDE3NDgy.Z1XSko1mtPuTg6NPnQi7CgABdhYznA5QJQSvOHoULqYg.X0_-Xha71pcNvuARwpDSOxl5V9wvEkRo1WBR4PnfOIcg.PNG.dltoqha684/%EC%99%84%EC%84%B15.png) ![fine](https://blogfiles.pstatic.net/MjAyMTA2MTNfMTYg/MDAxNjIzNTU4MjM1Mzgy.Fi_93Hxgt5qJSsYY0qlbrKgK-VxT7lGpgGNeDRAq33Ug.b7XfMKM9eVt4s3Weq6O6W4aXTh0Vzn3cMiSlAqg60EQg.PNG.dltoqha684/%EC%99%84%EC%84%B16.png)  
+* R 키를 누르면 정조준 상태로 전환  
+* 마우스 왼쪽 버튼을 클릭하면 이펙트와 함께 총알 발사  
+* 좀비가 총알에 두 번 맞을 시 사망  
+
+![mart](https://blogfiles.pstatic.net/MjAyMTA2MTNfMTk2/MDAxNjIzNTU4MjM1NDIy.Y71WgtQCUAFBvsfQYqqTyjSPfHmaGzazvX_4TysA_uUg.7kqVkL5CXrdIZl0Fb4dBF4PX4DnhP01S7_VDySdA_yYg.PNG.dltoqha684/%EC%99%84%EC%84%B17.png)  
+* 마트  
+
+![food1](https://blogfiles.pstatic.net/MjAyMTA2MTNfMjkw/MDAxNjIzNTU4MjM1Mzk3.PKGBVr_HD1xm9gL-6WBGfl0gW56spNWL45nwSwmJ3zYg.XaLBsrovz69TiY4-rnFcneiFYqTItk9VQzNwGlZzKTYg.PNG.dltoqha684/%EC%99%84%EC%84%B18.png)  
+
+![food2](https://blogfiles.pstatic.net/MjAyMTA2MTNfMTUy/MDAxNjIzNTU4MjM1MzQ3.IK0LqIS0siK9NFHVk7vZ7l3QScaiuLayl8sEkED0Okgg.6ZC81kiKj6bO4iqs_esGST25WlAg8nH0aycIe1DsoL8g.PNG.dltoqha684/%EC%99%84%EC%84%B19.png) ![food3](https://blogfiles.pstatic.net/MjAyMTA2MTNfMjUz/MDAxNjIzNTU4MjM1NDE1.UDRfueVQNbJAD546cr8Ii2Jd685B5altbx4LXX7oPlgg.25We0R6iY5kx5Zr-vbbnC4DfVM7Dd9Qssfnk1eM0Ekkg.PNG.dltoqha684/%EC%99%84%EC%84%B110.png)  
+* 음식을 섭취하면 Hungry 게이지 채워짐  
+
+![pharmacy](https://blogfiles.pstatic.net/MjAyMTA2MTNfMTM1/MDAxNjIzNTU4MjM1NDQ2.ijDOfXdDc6zFXI8ZGg4ysDsHGNVaewcHYpfJxEPpZtMg.IlNc6t-AtFELzKsEQUcMFMacgmaXsyoT8LLypTbOvVQg.PNG.dltoqha684/%EC%99%84%EC%84%B111.png)  
+* 약국  
+![potion](https://blogfiles.pstatic.net/MjAyMTA2MTNfMjcw/MDAxNjIzNTU4MjM1NTYx.u1D8JI_i94ovQBMmM6PboGJz0F5U50HRENeUhz6GWocg.5dldl3mXHJiy3gEgl1FQhXPFn6B1jDtk7RGPabk1ZCAg.PNG.dltoqha684/%EC%99%84%EC%84%B112.png)  
+![potion2](https://blogfiles.pstatic.net/MjAyMTA2MTNfMjA1/MDAxNjIzNTU4MjM1NjYw.w2hAxkw-6rAEf7nF3iuFIQf9nItie8ekW7ASUx0c01Ug.x5Ve69EEnt5NrRsjGKK2Acf__h5IVobMsmCcA8RoRawg.PNG.dltoqha684/%EC%99%84%EC%84%B113.png)  
+* 약 아이템을 먹으면 HP 게이지가 회복됨  
+
+![waterItem](https://blogfiles.pstatic.net/MjAyMTA2MTNfMjky/MDAxNjIzNTU4MjM1NzAx.R29qRlVCoL1dsYG_eViLvnqM4Yg9o7btJiaEED30Z9gg.FcAk1bpcIQVASjFiSdtXQt-CmIa6F64BYkZoP_hvtcIg.PNG.dltoqha684/%EC%99%84%EC%84%B115.png)  
+* 물을 구하기 위해 호수로 이동  
+
+![waterItem2](https://blogfiles.pstatic.net/MjAyMTA2MTNfMzkg/MDAxNjIzNTU4MjM1NjQ4.HoNjyIlWRAYFRazjzqI7KNFc6WMy8OJ9mip_hijPshog.N53-nMrRYbMe-04efpkniaC6EjlKXnTbpcAB8D3b3tYg.PNG.dltoqha684/%EC%99%84%EC%84%B116.png) ![waterItem3](https://blogfiles.pstatic.net/MjAyMTA2MTNfMjE0/MDAxNjIzNTU4MjM1Njk4.Rtb2cqCt-gRJja9QnAN1rkxcTgrBEE0GLnQMEFk854Ig._bSBSNNwuwcKq6Q9zLw1nH6ffeAeUNgXTMHlSV7UDM8g.PNG.dltoqha684/%EC%99%84%EC%84%B117.png)    
+* 물을 섭취하면 Thirsty 게이지가 채워짐  
+
+![drawn](https://blogfiles.pstatic.net/MjAyMTA2MTNfMjgg/MDAxNjIzNTU4MjM1ODI0.I-W_hrgtPa1iANp2r-Kilj7dOli_AtxH3PNxkw3jN7Yg.Z3-m67njnPp5MgFL7ZJxKl6iFlCu4_xa_qTmodxk5qMg.PNG.dltoqha684/%EC%99%84%EC%84%B118.png)  
+* 물에 빠지면 HP 게이지가 천천히 줄어듦  
+
+![basecamp](https://blogfiles.pstatic.net/MjAyMTA2MTNfMjc0/MDAxNjIzNTU4MjM1ODMz.Y7Zndd2tbMR4IGfrGFkMEJOeC5bJu7Z3msWYM3l0zlQg.0wpMGDlxT_qwSeWzOOVg_3QK69n0mqykQYK_1xXHFBIg.PNG.dltoqha684/%EC%99%84%EC%84%B119.png)  
+![basecamp2](https://blogfiles.pstatic.net/MjAyMTA2MTNfMSAg/MDAxNjIzNTU4MjM1ODg5.ydhXhGSloElcs9-HKWzrpBCBRWtwLJZymzI6PHpbafQg.ul5bsCfT6zCHG20GD4VQhwUq2MROkfdAdeUinIDe8-4g.PNG.dltoqha684/%EC%99%84%EC%84%B120.png) ![basecamp](https://blogfiles.pstatic.net/MjAyMTA2MTNfMTM1/MDAxNjIzNTU4MjM1ODgx.bE6TBUuGwGO_s-p2Tvqtnyc_21KpAdUg_8kV52N7LnMg.yIlDzh2vl_4iKUTMHBb_SRbP4U_X3CbORwOYNGC5FBog.PNG.dltoqha684/%EC%99%84%EC%84%B121.png)  
+* 안전하게 베이스 캠프에 들어가면 게임 클리어  
+
+<게임 오버>  
+![over](https://blogfiles.pstatic.net/MjAyMTA2MTNfMTY5/MDAxNjIzNTU4MjM1OTI2.pLyDmW5nFgD7XQuOvfR1cJFBvicQf_zBuLjXyMCq0Asg.axSavA57YuJQSAV1hjJW16J6zN4p9uz0_p8qYiRTL0Mg.PNG.dltoqha684/%EC%99%84%EC%84%B122.png)  
+* 좀비에게 세 번 공격 받으면 바로 게임 오버  
+* HP 게이지가 0이 되면 게임 오버  
+* 마우스 왼쪽 버튼 클릭 시 시작 씬으로 전환되며 재시작할 수 있음  
+
+
+
+
+
 
 
 
