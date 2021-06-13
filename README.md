@@ -107,10 +107,13 @@
 #### (8)플레이어_물에 빠졌을 때  
 ![drawn](https://blogfiles.pstatic.net/MjAyMTA2MTNfOTgg/MDAxNjIzNTU3NjUzNDk0.EfeP4Uzs0tvfUO78aBZfFkTb0B3W5MMUvhSAJsLvDygg.1x0R_T5pywF092AdWihcK00-Lf29Ge6uKHBAE2osWr8g.PNG.dltoqha684/%EB%AC%BC%EC%97%90%EB%B9%A0%EC%A1%8C%EC%9D%84%EB%95%8C.png)   
 
-### 4)GitHub 업로드 파일로 대체  
+### 4)소스 코드  
+GitHub 업로드 파일로 대체  
 
 ### 5)게임 완성  
-(1)게임 클리어
+(1)게임 클리어    
+![day](https://blogfiles.pstatic.net/MjAyMTA2MTNfMjM3/MDAxNjIzNTU4MzQ1NjE3.qDTUZPVm3Qm5sv57DFyNf7e2WUY0QQV_t-Ec8xtrvqkg.IxDYlXrRPl7crGw_ewN3pUOQSaXna98c9gQBpSP3Gowg.PNG.dltoqha684/%EB%82%AE.png) ![sunset](https://blogfiles.pstatic.net/MjAyMTA2MTNfMTE1/MDAxNjIzNTU4MzEwMjA0.dtq4-bpaPiFhSzstghGyNBh_ORsYZ58DdIBMyCz3DDkg.F_3CSJv0S4NA5m2lg6Y0iThC_htdDzggRpyp-xM7Caog.PNG.dltoqha684/%EB%85%B8%EC%9D%84.png) ![night](https://postfiles.pstatic.net/MjAyMTA2MTNfMjI3/MDAxNjIzNTU4MzEwMjAy.vM21Qq8H1dMjo-NX1LWMvNqVIG5c_23Asi15G3J7inQg.R6-ub2aLZGk1MjW2ig7Ot5nnc6ocoaWGojz8CSlPEGYg.PNG.dltoqha684/%EB%B0%A4.png?type=w966)
+
 
 
 
