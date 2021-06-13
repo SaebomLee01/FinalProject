@@ -90,14 +90,22 @@
   * 씬 전환 - start/over/clear, 마트, 약국  
 
 ### 3)순서도  
-#### (1)플레이어_좀비 충돌  ![player_zombie](https://blogfiles.pstatic.net/MjAyMTA2MTNfMTQ0/MDAxNjIzNTU3NjUzNDkx.tSK_U9U2EGGLC6Zy0t45CLyg61PIe0vygxehNkrEYNYg.bOfBFhCNt0GRtzFhCGdOMZy-ElPI467dthPKfMY-WSQg.PNG.dltoqha684/player_zombie.png)   
-#### (2)좀비_공격  ![attack](https://blogfiles.pstatic.net/MjAyMTA2MTNfMjc1/MDAxNjIzNTU3NjUzODc2.hMimM2xrwWQ1WF-UtVBZ_k4Z4VLCqprBcTKK4cSlpsEg.xob4jCba_-CxDTQ-DVF5ZJdQtRugmNja9G6m2rAUWPwg.PNG.dltoqha684/%EC%A2%80%EB%B9%84%EA%B3%B5%EA%B2%A9.png)   
-#### (3)음식 섭취  ![food](https://blogfiles.pstatic.net/MjAyMTA2MTNfMjcw/MDAxNjIzNTU3NjUzNTAy.1hFrvRS3_2IfRS5bEtJtp-mK7AeNlspQl6nJU-dlOkUg.FJFqFIOLf9P_F7oLVGfriIn-0AwyFE5IYqKibGemll0g.PNG.dltoqha684/%EC%9D%8C%EC%8B%9D%EC%84%AD%EC%B7%A8.png)   
-#### (4)물 섭취  ![water](https://blogfiles.pstatic.net/MjAyMTA2MTNfMTE0/MDAxNjIzNTU3NjUzNDky.-CGVKUs3Hoe9ygGUE_j036bCc4eoi5OaGXRGOqWHDXgg.mJSRA_dslAHUDkhIR_5sGN7uVxdNqUeOezkRLWTEzZwg.PNG.dltoqha684/%EB%AC%BC_%EC%84%AD%EC%B7%A8.png)   
-#### (5)약 획득  ![potion](https://blogfiles.pstatic.net/MjAyMTA2MTNfMTUz/MDAxNjIzNTU3NjUzNTAy.FM7eRHcw9yqpez65T1S-e5mP0BMPTICbtG8Me0ulAHYg.vxTpCcdvHVTfS_RUzLgafgXhmEH2mrekDhxHNwDQ_GYg.PNG.dltoqha684/%EC%95%BD_%ED%9A%8D%EB%93%9D.png)   
-#### (6)좀비_물  ![zombie_water](https://blogfiles.pstatic.net/MjAyMTA2MTNfMTU0/MDAxNjIzNTU3NjUzNTA1.kuzvqs3RzgDQLCkjJapFQCOWs_0kjiE2-dRDaF3f5EUg.aUOjKi9FnUm6chMXpDNvW9N5bk7VqvgumLkEPgzV9Qwg.PNG.dltoqha684/%EC%A2%80%EB%B9%84_%EB%AC%BC.png)   
-#### (7)개임 클리어  ![gameclear](https://blogfiles.pstatic.net/MjAyMTA2MTNfNzcg/MDAxNjIzNTU3NjUzOTAw.nhmTJcrPCziu2-OL0wCnp_aQQDo-sHYQDTnB33OehRIg.LHUr2vcuDboOr1Fa_7DhjNIyyxHp3vsySY_sbgImxvEg.PNG.dltoqha684/%ED%81%B4%EB%A6%AC%EC%96%B4.png)   
-#### (8)플레이어_물에 빠졌을 때  ![drawn](https://blogfiles.pstatic.net/MjAyMTA2MTNfOTgg/MDAxNjIzNTU3NjUzNDk0.EfeP4Uzs0tvfUO78aBZfFkTb0B3W5MMUvhSAJsLvDygg.1x0R_T5pywF092AdWihcK00-Lf29Ge6uKHBAE2osWr8g.PNG.dltoqha684/%EB%AC%BC%EC%97%90%EB%B9%A0%EC%A1%8C%EC%9D%84%EB%95%8C.png)   
+#### (1)플레이어_좀비 충돌  
+![player_zombie](https://blogfiles.pstatic.net/MjAyMTA2MTNfMTQ0/MDAxNjIzNTU3NjUzNDkx.tSK_U9U2EGGLC6Zy0t45CLyg61PIe0vygxehNkrEYNYg.bOfBFhCNt0GRtzFhCGdOMZy-ElPI467dthPKfMY-WSQg.PNG.dltoqha684/player_zombie.png)   
+#### (2)좀비_공격  
+![attack](https://blogfiles.pstatic.net/MjAyMTA2MTNfMjc1/MDAxNjIzNTU3NjUzODc2.hMimM2xrwWQ1WF-UtVBZ_k4Z4VLCqprBcTKK4cSlpsEg.xob4jCba_-CxDTQ-DVF5ZJdQtRugmNja9G6m2rAUWPwg.PNG.dltoqha684/%EC%A2%80%EB%B9%84%EA%B3%B5%EA%B2%A9.png)   
+#### (3)음식 섭취  
+![food](https://blogfiles.pstatic.net/MjAyMTA2MTNfMjcw/MDAxNjIzNTU3NjUzNTAy.1hFrvRS3_2IfRS5bEtJtp-mK7AeNlspQl6nJU-dlOkUg.FJFqFIOLf9P_F7oLVGfriIn-0AwyFE5IYqKibGemll0g.PNG.dltoqha684/%EC%9D%8C%EC%8B%9D%EC%84%AD%EC%B7%A8.png)   
+#### (4)물 섭취  
+![water](https://blogfiles.pstatic.net/MjAyMTA2MTNfMTE0/MDAxNjIzNTU3NjUzNDky.-CGVKUs3Hoe9ygGUE_j036bCc4eoi5OaGXRGOqWHDXgg.mJSRA_dslAHUDkhIR_5sGN7uVxdNqUeOezkRLWTEzZwg.PNG.dltoqha684/%EB%AC%BC_%EC%84%AD%EC%B7%A8.png)   
+#### (5)약 획득  
+![potion](https://blogfiles.pstatic.net/MjAyMTA2MTNfMTUz/MDAxNjIzNTU3NjUzNTAy.FM7eRHcw9yqpez65T1S-e5mP0BMPTICbtG8Me0ulAHYg.vxTpCcdvHVTfS_RUzLgafgXhmEH2mrekDhxHNwDQ_GYg.PNG.dltoqha684/%EC%95%BD_%ED%9A%8D%EB%93%9D.png)   
+#### (6)좀비_물  
+![zombie_water](https://blogfiles.pstatic.net/MjAyMTA2MTNfMTU0/MDAxNjIzNTU3NjUzNTA1.kuzvqs3RzgDQLCkjJapFQCOWs_0kjiE2-dRDaF3f5EUg.aUOjKi9FnUm6chMXpDNvW9N5bk7VqvgumLkEPgzV9Qwg.PNG.dltoqha684/%EC%A2%80%EB%B9%84_%EB%AC%BC.png)   
+#### (7)개임 클리어  
+![gameclear](https://blogfiles.pstatic.net/MjAyMTA2MTNfNzcg/MDAxNjIzNTU3NjUzOTAw.nhmTJcrPCziu2-OL0wCnp_aQQDo-sHYQDTnB33OehRIg.LHUr2vcuDboOr1Fa_7DhjNIyyxHp3vsySY_sbgImxvEg.PNG.dltoqha684/%ED%81%B4%EB%A6%AC%EC%96%B4.png)   
+#### (8)플레이어_물에 빠졌을 때  
+![drawn](https://blogfiles.pstatic.net/MjAyMTA2MTNfOTgg/MDAxNjIzNTU3NjUzNDk0.EfeP4Uzs0tvfUO78aBZfFkTb0B3W5MMUvhSAJsLvDygg.1x0R_T5pywF092AdWihcK00-Lf29Ge6uKHBAE2osWr8g.PNG.dltoqha684/%EB%AC%BC%EC%97%90%EB%B9%A0%EC%A1%8C%EC%9D%84%EB%95%8C.png)   
 
 ### 4)GitHub 업로드 파일로 대체  
 
