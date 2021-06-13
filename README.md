@@ -58,9 +58,47 @@
 2) GAME OVER SCENE  
 ![over](https://blogfiles.pstatic.net/MjAyMTA2MTNfMjM1/MDAxNjIzNTU1OTM1Mjk3.g_gwHFmqw-9ygubQGIjdtgGb_diyJKtzmdIdFXdTO88g.Dm2-0spdlxhghoSWTSP9dkbeYb7nJ6e7A_LDcOPO5ZEg.PNG.dltoqha684/over.png)    
 3) GAME CLEAR SCENE    
-![clear](https://blogfiles.pstatic.net/MjAyMTA2MTNfMjAg/MDAxNjIzNTU1OTM1Mjk3.NpAKQyQGRbbO2kiq5cn-xUkJ81txO-xFTCPHiu1rB_wg.fjHBUEWXrVeS0iBShuG_3BRFFOoUVibkuqTTzOTDtF4g.PNG.dltoqha684/clear.png)    
+![clear](https://blogfiles.pstatic.net/MjAyMTA2MTNfMjAg/MDAxNjIzNTU1OTM1Mjk3.NpAKQyQGRbbO2kiq5cn-xUkJ81txO-xFTCPHiu1rB_wg.fjHBUEWXrVeS0iBShuG_3BRFFOoUVibkuqTTzOTDtF4g.PNG.dltoqha684/clear.png)  
 
-<>
+### 2)프로그래밍 요소  
+* 플레이어
+      * 걷기, 달리기, 점프, 웅크리기
+      * 좀비와 충돌하거나, 물에 빠졌을 때 HP 깎임
+      * 좀비와 세 번 충돌 시 게임 오버
+      * 스탯 - HP, Hugry, Thirsty, SP 게이지 구현  
+* 카메라 무빙(1인칭 시점)
+      * 상하 좌우 회전   
+* 총
+      * 총알 발사
+      * 정조준 상태
+      * 재장전
+
+* 좀비
+      * 랜덤 생성
+      * 총알에 두 번 맞으면 죽음
+
+* 아이템
+      * 약, 음식, 물 획득  
+
+* 물
+      * 물에 빠지면 플레이어 HP 깎임
+      * 색 변화  
+* 기타 게임 시스템
+      * 마우스 커서 숨기기
+      * 씬 전환 - start/over/clear, 마트, 약국  
+
+### 3)순서도  
+#### (1)플레이어_좀비 충돌  
+#### (2)좀비_공격  
+#### (3)음식 섭취  
+#### (4)물 섭취  
+#### (5)약 획득  
+#### (6)좀비_물  
+#### (7)개임 클리어  
+#### (8)플레이어_물에 빠졌을 때  
+
+
+
 
 
  
